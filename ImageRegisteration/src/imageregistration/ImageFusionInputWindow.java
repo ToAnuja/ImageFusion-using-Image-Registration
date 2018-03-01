@@ -55,7 +55,7 @@ public class ImageFusionInputWindow extends JFrame implements ActionListener {
     public Cursor mouseCs = new Cursor(Cursor.CROSSHAIR_CURSOR);
     static Dimension dimension = Toolkit.getDefaultToolkit().getScreenSize().getSize();
     Size SIZE_IMAGE_FUSION = new Size((dimension.getWidth() / 2) - 10, dimension.getHeight() - 200);
-    private final String path = "/home/crl/NetBeansProjects/OnlineStreamPlay";
+    private final String path = "/home/user/Pictures";
     CommonMethod commObj = new CommonMethod();
 
     private static final long serialVersionUID = 1L;
