@@ -7,7 +7,7 @@ Screen Resolution: 1920X1080
 
 Language: java version "1.8.0_91"
 
-Environment: opencv-3.3.0 or any similar versions must installed before running this application
+Environment: opencv-3.4.0 or any similar versions must installed before running this application
 
 Lib: MigLayout_15.jar, opencv-340.jar
 
